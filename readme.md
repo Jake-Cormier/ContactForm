@@ -1,6 +1,6 @@
 # Contact Form
 
-A serverless contact for for a static websidte
+A serverless contact form for a static websidte
 
 # Quick Rundown 
 
