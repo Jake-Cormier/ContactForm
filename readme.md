@@ -1,6 +1,6 @@
 # Contact Form
 
-A serverless contact form for a static websidte
+A serverless contact form for a static website
 
 # Quick Rundown 
 
